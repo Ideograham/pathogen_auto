@@ -1,0 +1,9 @@
+sensible.vim,https://github.com/tpope/vim-sensible
+fugitive.vim,https://github.com/tpope/vim-fugitive
+The NERD Tree,https://github.com/scrooloose/nerdtree
+Syntastic,https://github.com/scrooloose/syntastic
+surround.vim,https://github.com/tpope/vim-surround
+ctrl-p,https://github.com/kien/ctrlp.vim
+airline,https://github.com/vim-airline/vim-airline
+vim-colorschemes,https://github.com/flazz/vim-colorschemes
+vim-multiple-cursors,https://github.com/terryma/vim-multiple-cursors
